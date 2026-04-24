@@ -1,4 +1,4 @@
-package random;
+package springboot.lecture1.loosecopling.random;
 
 public class Car {
     private Engine engine;
